@@ -6,30 +6,36 @@
 public class Hourglass {
 	public static void main(String[] args) { 
 		line();
-		body();
+		topbody();
 	}
-		public static void line() {
+	
+	public static void line() {
 		System.out.print("|");
 		for (int i = 1; i<=10; i++) {
 			System.out.print("\"");
 		}
 		System.out.print("|");
+		System.out.println();
 	}
-	System.out.println();
-	public static void body() {
-	System.out.print("\\");
+		
+
+	public static void topbody() {
 		for (int i = 1; i<=4; i++) {
-			for (int j = 1; j<=2 + i; j++) {
+			for (int j = 1; j<=0 + i; j++) {
 				System.out.print(" ");
 			}
-			for (int j = 1; j<=2 * i + 1; j++) {	
+			System.out.print("\\");
+			for (int j = 1; j<=4; j++) {
+				 int collen = (-2 * j) + 10 
+					 
+				 }
 				System.out.print(":");
 			}
 			System.out.println("/");
-        
+			System.out.println();
 		}
-		System.out.println();
 	}
 
-}
+
+
 
