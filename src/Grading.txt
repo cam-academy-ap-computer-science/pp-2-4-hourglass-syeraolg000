@@ -1,0 +1,21 @@
+
+Correct Output: 0/10 
+/*
+  Compilation errors.
+*/
+
+Proper Use of Static Methods: 3/3
+Proper Use of for loops: 3/3
+Pseudocode: 1/3
+/*
+  Incomplete.
+*/
+
+Comments: 0/2 
+Consistent Layout and Style following Style Guidelines: 1/2
+/*
+  When you are putting several words together to form a method name, capitalize the first letter of each word afer the first. topbody should be topBody.
+*/
+
+Proper Use of at least one Class Constant: 0/2
+Extra Credit - Hourglass can be resized by changing only one Class Constant: 0/2
