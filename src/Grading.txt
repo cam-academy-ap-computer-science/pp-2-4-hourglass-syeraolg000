@@ -1,21 +1,13 @@
 
-Correct Output: 0/10 
-/*
-  Compilation errors.
-*/
+Correct Output: 10/10 
+Yes you are supposed to use the for loop for System.out.println("     ||") statement but I gave you 10/10 because you used nested loops in the program.
 
 Proper Use of Static Methods: 3/3
 Proper Use of for loops: 3/3
 Pseudocode: 1/3
-/*
-  Incomplete.
-*/
+I gave you 1/3 because I didn't see you use pseudocode to describe the steps to draw the hourglass (The Hourglass program that you sent to Mr. Harpe) but I did see some from the Hourglass program in GitHub.
 
-Comments: 0/2 
-Consistent Layout and Style following Style Guidelines: 1/2
-/*
-  When you are putting several words together to form a method name, capitalize the first letter of each word afer the first. topbody should be topBody.
-*/
-
+Comments: 2/2 
+Consistent Layout and Style following Style Guidelines: 2/2
 Proper Use of at least one Class Constant: 0/2
 Extra Credit - Hourglass can be resized by changing only one Class Constant: 0/2
